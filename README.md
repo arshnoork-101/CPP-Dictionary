@@ -1,4 +1,4 @@
-# 📖 CPP-Dictionary App 🔍
+# 📖 CPP-Dictionary 🔍
 
 This project implements a dictionary application that loads words and their definitions from a CSV file, allowing users to search for word definitions.
 
