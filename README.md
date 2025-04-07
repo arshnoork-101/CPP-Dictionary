@@ -1,12 +1,12 @@
-# 📖 CPP-Dictionary App 
+# 📖 CPP-Dictionary App 🔍
 
 This project implements a dictionary application that loads words and their definitions from a CSV file, allowing users to search for word definitions.
 
-## Project Overview
+## 🧠 Project Overview
 
 The application reads word definitions from a CSV file, stores them in memory, and provides search functionality. It also measures and logs the duration of various operations ⏱️.
 
-## Features
+## ✨ Features
 
 - 📥 **Dictionary Loading:** Loads words, parts of speech, and definitions from a CSV file.
 - 🔎 **Word Search:** Searches for word definitions with optional part-of-speech display.
@@ -15,7 +15,7 @@ The application reads word definitions from a CSV file, stores them in memory, a
 - ⏲️ **Time Monitoring:** Uses `std::chrono` for precise time measurement.
 - ❗ **Error Handling:** Handles file open errors and invalid parts of speech.
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 ├── src/
